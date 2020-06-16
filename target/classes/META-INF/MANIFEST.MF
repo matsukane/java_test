@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: izumiyasunori
+Built-By: matsukane
 Build-Jdk: 11.0.2
 Implementation-Title: spring_test
 Implementation-Version: 0.0.1-SNAPSHOT
